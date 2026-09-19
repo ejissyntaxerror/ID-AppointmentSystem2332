@@ -12,7 +12,7 @@ appointment = {
     "Student ID": student_id,
     "Date": date,
     "Time": time,
-    "Status": "Pending"
+    "Status": "Confirmed"
 }
 
 print("\n======================================")
